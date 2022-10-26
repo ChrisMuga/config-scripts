@@ -1,4 +1,5 @@
 # Git 
+# !! Important => Compatible with any of these fonts => https://github.com/diogocavilha/fancy-git/tree/master/fonts
 FMT_BOLD="\e[1m"
 FMT_RESET="\e[0m"
 FMT_UNBOLD="\e[21m"

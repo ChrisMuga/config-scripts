@@ -5,6 +5,8 @@
 
 ##### 1. Make sure to install [Fancy Git](https://github.com/diogocavilha/fancy-git) for your terminal:
 
+##### (Note) Fancy Git works with bash, an Alternative for .zsh can be found [here](https://inspirnathan.com/posts/22-install-ohmyzsh-with-agnoster-theme/) 
+
 > ```bash
 > curl -sS https://raw.githubusercontent.com/diogocavilha/fancy-git/master/install.sh | sh
 > ```

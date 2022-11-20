@@ -11,7 +11,10 @@ set guifont=DroidSansMono_Nerd_Font:h11
 nmap ff :Files<CR>
 nmap fw :Ag<CR>
 
+" Nerd Tree
 nnoremap <C-n> :NERDTree<CR>
+nnoremap <C-t> :NERDTreeToggle<CR>
+nnoremap <C-f> :NERDTreeFind<CR>
 
 " Plugins
 call plug#begin()
